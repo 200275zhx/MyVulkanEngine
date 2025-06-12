@@ -1,0 +1,4 @@
+# ninja log v6
+4	1245	7713907676239168	CMakeFiles/MyVulkanEngine.dir/engine/src/core/application.cpp.obj	1ef277a396f63cbb
+10	1250	7713907676294299	CMakeFiles/MyVulkanEngine.dir/game/src/game.cpp.obj	c9f7eb1ae0abfb1d
+1251	1647	7713907688709623	MyVulkanEngine.exe	d751a990ebacc104
