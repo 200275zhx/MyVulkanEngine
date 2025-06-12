@@ -1,6 +1,9 @@
 cmake_minimum_required(VERSION 3.19)
-project(MyVulkanEngine VERSION 1.0 LANGUAGES CXX)
 
+# MSVC runtime: DLL in both Debug and Release
+set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>DLL")
+
+project(MyVulkanEngine VERSION 1.0 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 

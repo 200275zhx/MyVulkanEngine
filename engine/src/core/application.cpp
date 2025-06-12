@@ -1,4 +1,4 @@
-#include "core/application.hpp"
+#include "core/Application.hpp"
 #include <iostream>
 
 namespace mve {
