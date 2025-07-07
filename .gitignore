@@ -4,10 +4,10 @@
 *.vcproj.user
 
 # Ignore SPIR-V files
-*.SPIR_V
+*.spv
 
 # Ignore all files in path:
 /.vs/
 /build/
-/engine/external/glfw-3.4.bin.WIN64
-/engine/external/VulkanSDK
+/cache/
+/engine/external/

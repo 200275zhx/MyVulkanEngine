@@ -1,0 +1,28 @@
+// ---------- Name Space ---------- //
+namespace mve{}
+
+
+// ---------- For Functions ---------- //
+returnType FunctionName (int parameterName) { int localVariableName; }
+
+// ---------- For Class ---------- //
+class ClassName {
+public:
+	void methodName(int parameterName);
+private:
+	int member_var_;
+}
+
+
+// ---------- File Names For Class ---------- //
+include/*/FileNameForClass.hpp
+src/*/FileNameForClass.cpp
+
+// ---------- File Name For Shaders ---------- //
+shader_file_name.vert
+shader_file_name.frag
+
+
+// ---------- Folder Names ---------- //
+folder_name
+
